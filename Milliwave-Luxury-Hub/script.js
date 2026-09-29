@@ -1,0 +1,1 @@
+console.log("Milliwave Luxury Hub is ready!");
